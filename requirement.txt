@@ -1,1 +1,4 @@
-hello
+Flask
+gunicorn
+requests
+qrcode
